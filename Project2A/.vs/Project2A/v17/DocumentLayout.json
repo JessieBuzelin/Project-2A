@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC4662-A8E0-DBDA-33B6-281AD9CB611E}|Assembly-CSharp.csproj|c:\\users\\jessi\\desktop\\170-project-2-a\\project2a\\assets\\ocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC4662-A8E0-DBDA-33B6-281AD9CB611E}|Assembly-CSharp.csproj|solutionrelative:assets\\ocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC4662-A8E0-DBDA-33B6-281AD9CB611E}|Assembly-CSharp.csproj|c:\\users\\jessi\\desktop\\170-project-2-a\\project2a\\assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC4662-A8E0-DBDA-33B6-281AD9CB611E}|Assembly-CSharp.csproj|solutionrelative:assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC4662-A8E0-DBDA-33B6-281AD9CB611E}|Assembly-CSharp.csproj|C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\assets\\fishscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC4662-A8E0-DBDA-33B6-281AD9CB611E}|Assembly-CSharp.csproj|solutionrelative:assets\\fishscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:06:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocean.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\Assets\\Ocean.cs",
+              "RelativeDocumentMoniker": "Assets\\Ocean.cs",
+              "ToolTip": "C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\Assets\\Ocean.cs",
+              "RelativeToolTip": "Assets\\Ocean.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:24:53.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FishScript.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\Assets\\FishScript.cs",
+              "RelativeDocumentMoniker": "Assets\\FishScript.cs",
+              "ToolTip": "C:\\Users\\jessi\\Desktop\\170-Project-2-A\\Project2A\\Assets\\FishScript.cs",
+              "RelativeToolTip": "Assets\\FishScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:23:40.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
