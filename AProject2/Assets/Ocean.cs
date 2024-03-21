@@ -31,34 +31,36 @@ public class Ocean : MonoBehaviour
 
     void Start()
     {
+       
 
-        
+
         fish.Add("Bass");
         fish.Add("Tuna");
         fish.Add("Cod");
         fish.Add("Shark");
         // start of game and randomizing fish stats when caught
-        int randomIndex = Random.Range(0, fish.Count);
-        string randomFish = fish[randomIndex];
+     //   int randomIndex = Random.Range(0, fish.Count);
+      //  string randomFish = fish[randomIndex];
         Debug.Log("What a day for fishing! Press A to cast your reel!");
-        lastGeneratedFish = randomFish;
+        //  
         //  Debug.Log(randomFish);
 
 
 
 
-
-
+       
 
 
 
 
     }
-    void Update()
-    {
+
+
+   public void gamePlay()
+    { 
         int randomIndex = Random.Range(0, fish.Count);
         string randomFish = fish[randomIndex];
-
+        lastGeneratedFish = randomFish;
         if (Input.GetKeyDown(KeyCode.A))
         {
 
@@ -69,7 +71,7 @@ public class Ocean : MonoBehaviour
         }
 
         if (Input.GetKeyDown(KeyCode.F))
-            {
+        {
             fishBowl.Remove(randomFish);
             Debug.Log("You threw the fish away!");
         }
@@ -85,7 +87,12 @@ public class Ocean : MonoBehaviour
 
             }
         }
-        
+
+
+    }
+    void Update()
+    {
+        gamePlay();
 
     }
 
